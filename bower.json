@@ -1,0 +1,8 @@
+{
+  "name": "extra-lesson-gb",
+  "description": "geekbrains test project",
+  "dependencies": {
+    "autosize": "latest",
+    "dropzone": "latest"
+  }
+}
